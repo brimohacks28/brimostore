@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+.navbar-light .navbar-nav .nav-link.active-link{
+  color:forestgreen;
+  text-decoration:underline;
+}
+.navbar-light.navbar-nav .nav-link
+{
+  color:goldenrod;
+
+}
+.bg-800000 {
+  background-color:khaki!important;
+}
