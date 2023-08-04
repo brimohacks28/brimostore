@@ -309,7 +309,7 @@ export class OrderDetailsServiceService {
     ProductName:"Fridge",
     ProductDetails:"Keep It Cool and Fresh - Discover the Perfect Fridge for Your Kitchen",
     ProductPrice:75000,
-    ProductImage:"https://media.istockphoto.com/id/1419096365/photo/modern-stainless-fridge-refrigerator-freezer-on-a-gray-background-mockup-layout-banner-3d.webp?b=1&s=170667a&w=0&k=20&c=pSC3xuMyWvRSjPsKtiO-ydid8n7Pz13Q-1FlY2ByRms="
+    ProductImage:"https://media.istockphoto.com/id/1397635013/photo/man-hand-opened-mini-small-refrigerator-and-reached-drinking-plastic-water-bottle-under-the.webp?b=1&s=170667a&w=0&k=20&c=4w7CFjwMVh8NtmfUYQ1iU2z6YLDoCZhH-xOcaG3iH88="
   },
     {
      id:2,
