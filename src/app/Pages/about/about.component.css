@@ -195,7 +195,16 @@ home-sci a:hover{
   background: #081b29;
   opacity: .8;
 }
-
+.viewmorebtn{
+  text-decoration: none;
+  background-color:khaki;
+  color:black;
+  padding:10px 10px;
+  border-radius:5px;
+  font-size:18px;
+  margin-bottom: 20px;
+  position: inherit;
+}
 
 /*KEYFRAMES ANIMATION*/
 @keyframes showRight{

@@ -32,7 +32,7 @@
 .stepBox
 {
   background-color:darkgray;
-  padding:20px 20px;
+  padding:10px 10px;
   border-radius: 5px;
   text-align:center;
 }
@@ -41,6 +41,7 @@
   font-size: 50px;
   font-weight: bold;
   color:white;
+  font-style: italic;
 }
 .stepBox p
 {
